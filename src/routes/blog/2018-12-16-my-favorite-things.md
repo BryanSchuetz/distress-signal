@@ -4,7 +4,7 @@ date: 2018-12-16 22:00:00 Z
 tags:
 - Music
 layout: post
-socialImage: /images/coltrane.jpg
+: /images/coltrane.jpg
 ---
 
 Do yourself a favor this year. Skip the clichéd Mariah Carey remakes. Throw those awful Michael Bublé CD's in the trash. Avoid the whole _"Baby it's Cold Outsite"_ drama. **Just listen to [this](https://itunes.apple.com/us/album/my-favorite-things/962193155?i=962193194).**

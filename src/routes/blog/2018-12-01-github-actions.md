@@ -6,7 +6,7 @@ tags:
 - Web Development
 - GitHub Actions
 layout: post
-socialImage: 
+: 
 
 ---
 

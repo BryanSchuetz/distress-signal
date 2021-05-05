@@ -5,7 +5,7 @@ tags:
 - Jekyll
 - Web Development
 layout: post
-socialImage: /images/concatenate.png
+: /images/concatenate.png
 ---
 
 This one's a stupid little trick, but I literally use it all the time, and I'm always surprised how novel people find it when I explain it to them. **Basically: use Liquid includes in a bundle.js file, and let Jekyll smash all your .js crap together for you.**
